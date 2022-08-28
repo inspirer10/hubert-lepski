@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hubert-lepski/static/css/main.1080a2c2.css",
-    "main.js": "/hubert-lepski/static/js/main.ae532a56.js",
+    "main.css": "/hubert-lepski/static/css/main.e1d728cd.css",
+    "main.js": "/hubert-lepski/static/js/main.442286b0.js",
     "static/js/787.6ee3f225.chunk.js": "/hubert-lepski/static/js/787.6ee3f225.chunk.js",
     "static/media/ReactRouter.png": "/hubert-lepski/static/media/ReactRouter.f23edf078941cb7ce1d3.png",
     "static/media/SASS.png": "/hubert-lepski/static/media/SASS.461a2f93d49924c26e14.png",
     "static/media/Redux.png": "/hubert-lepski/static/media/Redux.b3b939c66aecf7d53967.png",
     "static/media/CSS.png": "/hubert-lepski/static/media/CSS.84234a87660cd7b1c5d8.png",
     "index.html": "/hubert-lepski/index.html",
-    "main.1080a2c2.css.map": "/hubert-lepski/static/css/main.1080a2c2.css.map",
-    "main.ae532a56.js.map": "/hubert-lepski/static/js/main.ae532a56.js.map",
+    "main.e1d728cd.css.map": "/hubert-lepski/static/css/main.e1d728cd.css.map",
+    "main.442286b0.js.map": "/hubert-lepski/static/js/main.442286b0.js.map",
     "787.6ee3f225.chunk.js.map": "/hubert-lepski/static/js/787.6ee3f225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1080a2c2.css",
-    "static/js/main.ae532a56.js"
+    "static/css/main.e1d728cd.css",
+    "static/js/main.442286b0.js"
   ]
 }
