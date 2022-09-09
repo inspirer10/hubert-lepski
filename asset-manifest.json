@@ -1,7 +1,7 @@
 {
-  "main.css": "/hubert-lepski/static/css/main.62026fae.chunk.css",
-  "main.js": "/hubert-lepski/static/js/main.be9cfcb0.chunk.js",
-  "main.js.map": "/hubert-lepski/static/js/main.be9cfcb0.chunk.js.map",
+  "main.css": "/hubert-lepski/static/css/main.308d6b85.chunk.css",
+  "main.js": "/hubert-lepski/static/js/main.d60edd3a.chunk.js",
+  "main.js.map": "/hubert-lepski/static/js/main.d60edd3a.chunk.js.map",
   "static/js/1.269d177d.chunk.js": "/hubert-lepski/static/js/1.269d177d.chunk.js",
   "static/js/1.269d177d.chunk.js.map": "/hubert-lepski/static/js/1.269d177d.chunk.js.map",
   "static/js/2.e22cc7b7.chunk.js": "/hubert-lepski/static/js/2.e22cc7b7.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/hubert-lepski/static/js/runtime~main.a5ff656f.js",
   "runtime~main.js.map": "/hubert-lepski/static/js/runtime~main.a5ff656f.js.map",
   "static/media/App.scss": "/hubert-lepski/static/media/stars.642e8b97.jpg",
-  "static/css/main.62026fae.chunk.css.map": "/hubert-lepski/static/css/main.62026fae.chunk.css.map",
+  "static/css/main.308d6b85.chunk.css.map": "/hubert-lepski/static/css/main.308d6b85.chunk.css.map",
   "index.html": "/hubert-lepski/index.html",
-  "precache-manifest.365797f432bc5672e0bd225994c9ad15.js": "/hubert-lepski/precache-manifest.365797f432bc5672e0bd225994c9ad15.js",
+  "precache-manifest.892fde5de631bec102f2e66ca3389e20.js": "/hubert-lepski/precache-manifest.892fde5de631bec102f2e66ca3389e20.js",
   "service-worker.js": "/hubert-lepski/service-worker.js"
 }
