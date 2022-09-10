@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d60edd3a9fff8f0a2eff",
-    "url": "/hubert-lepski/static/css/main.308d6b85.chunk.css"
+    "revision": "3194d0b84edb028025c1",
+    "url": "/hubert-lepski/static/css/main.31bf9e29.chunk.css"
   },
   {
-    "revision": "d60edd3a9fff8f0a2eff",
-    "url": "/hubert-lepski/static/js/main.d60edd3a.chunk.js"
+    "revision": "3194d0b84edb028025c1",
+    "url": "/hubert-lepski/static/js/main.3194d0b8.chunk.js"
   },
   {
     "revision": "269d177dfa7b1bf5e155",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/hubert-lepski/static/media/Hubert.ab9a60a3.png"
   },
   {
-    "revision": "2da9a47a3d8658aca6e986001a83e684",
-    "url": "/hubert-lepski/static/media/SASS.2da9a47a.png"
-  },
-  {
     "revision": "9896130d390f56393d27b9adff4fd67a",
     "url": "/hubert-lepski/static/media/CSS.9896130d.png"
+  },
+  {
+    "revision": "2da9a47a3d8658aca6e986001a83e684",
+    "url": "/hubert-lepski/static/media/SASS.2da9a47a.png"
   },
   {
     "revision": "d05c8303d7fe9dcc55d1e2bb3aab51f4",
@@ -44,15 +44,7 @@ self.__precacheManifest = [
     "url": "/hubert-lepski/static/media/project1.9bef912e.jpg"
   },
   {
-    "revision": "03627ec2c0d325c171d229f7e17195b6",
-    "url": "/hubert-lepski/static/media/project1.03627ec2.png"
-  },
-  {
-    "revision": "642e8b9796e4e1a53c7813752ce41b03",
-    "url": "/hubert-lepski/static/media/stars.642e8b97.jpg"
-  },
-  {
-    "revision": "2b3709db7f261f48239191f07337bdec",
+    "revision": "766320d5ca2cda58d1889997f6fe392e",
     "url": "/hubert-lepski/index.html"
   }
 ];
