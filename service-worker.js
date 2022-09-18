@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hubert-lepski/precache-manifest.de8c5e5ac6424fa2fe053dcfc9d721ab.js"
+  "/hubert-lepski/precache-manifest.77cc474405bdb76790d8513b2084cbc6.js"
 );
 
 workbox.clientsClaim();
