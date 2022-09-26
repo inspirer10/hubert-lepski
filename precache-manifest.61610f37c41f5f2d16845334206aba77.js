@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/hubert-lepski/static/media/oneArmed.99b72b2f.png"
   },
   {
-    "revision": "a0641fedaa7c094a77d3be746e4b131b",
-    "url": "/hubert-lepski/static/media/PRS.a0641fed.png"
-  },
-  {
     "revision": "11b1de8a995b23a46bc6a66fff26192a",
     "url": "/hubert-lepski/static/media/restaurant.11b1de8a.png"
   },
   {
-    "revision": "179a51e7fb511e1717816bf1d5f5f4f2",
-    "url": "/hubert-lepski/static/media/temperature.179a51e7.png"
+    "revision": "a0641fedaa7c094a77d3be746e4b131b",
+    "url": "/hubert-lepski/static/media/PRS.a0641fed.png"
   },
   {
     "revision": "b15d9cd52236387f41788ddcf91d319c",
     "url": "/hubert-lepski/static/media/TRVLstadiums.b15d9cd5.png"
+  },
+  {
+    "revision": "179a51e7fb511e1717816bf1d5f5f4f2",
+    "url": "/hubert-lepski/static/media/temperature.179a51e7.png"
   },
   {
     "revision": "a38b037d4bf3bbdde6533d1c82eda58a",
