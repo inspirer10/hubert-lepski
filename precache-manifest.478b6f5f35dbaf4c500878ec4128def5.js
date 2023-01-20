@@ -1,23 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "d1a68d6709a371a3ea00",
-    "url": "/hubert-lepski/static/css/main.d0eb8a95.chunk.css"
+    "revision": "6a0d5fca3abe083a6599",
+    "url": "/hubert-lepski/static/css/main.bfb13dfb.chunk.css"
   },
   {
-    "revision": "d1a68d6709a371a3ea00",
-    "url": "/hubert-lepski/static/js/main.d1a68d67.chunk.js"
+    "revision": "6a0d5fca3abe083a6599",
+    "url": "/hubert-lepski/static/js/main.6a0d5fca.chunk.js"
   },
   {
-    "revision": "269d177dfa7b1bf5e155",
-    "url": "/hubert-lepski/static/js/1.269d177d.chunk.js"
+    "revision": "8bca004c7b7df48df8a4",
+    "url": "/hubert-lepski/static/js/1.8bca004c.chunk.js"
   },
   {
-    "revision": "6b28214e3cd7ea69eceb",
-    "url": "/hubert-lepski/static/js/2.6b28214e.chunk.js"
-  },
-  {
-    "revision": "a5ff656f1dc6f758f437",
-    "url": "/hubert-lepski/static/js/runtime~main.a5ff656f.js"
+    "revision": "add1cba523a7fa4272a4",
+    "url": "/hubert-lepski/static/js/runtime~main.add1cba5.js"
   },
   {
     "revision": "3e9f7a8004e88b2e19d982cc00ce708d",
@@ -44,35 +40,35 @@ self.__precacheManifest = [
     "url": "/hubert-lepski/static/media/project1.9bef912e.jpg"
   },
   {
-    "revision": "99b72b2f768d6f7e29632b8cc34780a8",
-    "url": "/hubert-lepski/static/media/oneArmed.99b72b2f.png"
-  },
-  {
-    "revision": "11b1de8a995b23a46bc6a66fff26192a",
-    "url": "/hubert-lepski/static/media/restaurant.11b1de8a.png"
-  },
-  {
     "revision": "a0641fedaa7c094a77d3be746e4b131b",
     "url": "/hubert-lepski/static/media/PRS.a0641fed.png"
+  },
+  {
+    "revision": "99b72b2f768d6f7e29632b8cc34780a8",
+    "url": "/hubert-lepski/static/media/oneArmed.99b72b2f.png"
   },
   {
     "revision": "b15d9cd52236387f41788ddcf91d319c",
     "url": "/hubert-lepski/static/media/TRVLstadiums.b15d9cd5.png"
   },
   {
-    "revision": "179a51e7fb511e1717816bf1d5f5f4f2",
-    "url": "/hubert-lepski/static/media/temperature.179a51e7.png"
+    "revision": "11b1de8a995b23a46bc6a66fff26192a",
+    "url": "/hubert-lepski/static/media/restaurant.11b1de8a.png"
   },
   {
-    "revision": "a38b037d4bf3bbdde6533d1c82eda58a",
-    "url": "/hubert-lepski/static/media/marle.a38b037d.png"
+    "revision": "179a51e7fb511e1717816bf1d5f5f4f2",
+    "url": "/hubert-lepski/static/media/temperature.179a51e7.png"
   },
   {
     "revision": "2fd81b3c125cf4c2b3bc1db09deb992b",
     "url": "/hubert-lepski/static/media/bmi.2fd81b3c.png"
   },
   {
-    "revision": "cd844f66d46c43b04c5e1bfa57333602",
+    "revision": "a38b037d4bf3bbdde6533d1c82eda58a",
+    "url": "/hubert-lepski/static/media/marle.a38b037d.png"
+  },
+  {
+    "revision": "d920140315f30dece546627073fb9acb",
     "url": "/hubert-lepski/index.html"
   }
 ];
